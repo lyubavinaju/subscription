@@ -2,8 +2,8 @@ import dao.*;
 import entities.*;
 import service.*;
 
-import logic.JDBCConn;
-import logic.Utils;
+import utils.JDBCConn;
+import utils.Utils;
 
 import java.sql.Connection;
 import java.sql.SQLException;
